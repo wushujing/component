@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  com.github.wushujing.light.web.config.LightWebAutoConfiguration
